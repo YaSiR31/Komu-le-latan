@@ -1,2 +1,5 @@
 # Komu-le-latan
-Kọ́mú lè látán|Loan calculator app|vanilla js|ES5
+Kọ́mú lè látán
+Basic Loan calculator app 
+Built with vanilla js(ES5)
+
